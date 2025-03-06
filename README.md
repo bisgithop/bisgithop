@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bisgithop
+- 👋 Hi, I’m bishop stronger than a knight weaker than a rook!
 - 👀 I’m interested in Python AI Java...
 - 💞️ I’m looking to collaborate in solving Reimann Hypothesis and Quantum Engtanglement :)
 
